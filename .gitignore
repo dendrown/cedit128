@@ -1,3 +1,7 @@
+# Project-specific
+src/cedit
+src/*.lst
+
 # Prerequisites
 *.d
 
