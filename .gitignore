@@ -2,6 +2,11 @@
 src/cedit
 src/*.lst
 
+# Editor scratch
+.*.swp
+.#*
+\#*#
+
 # Prerequisites
 *.d
 
